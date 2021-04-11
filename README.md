@@ -12,9 +12,8 @@ The purpose of the Pewlett-Hackard analysis is to go several csv files that cont
 - Finally, its fair to say that Pewllet-Hackard is in a very tight position and may potentially be in some trouble if a mass group of their employees decide to retire at the same time or earlier. It would be wise to start reorganizing the design of the work being done and seeing if there is a need for so many employees. A reorganization could prove that less employees could bring the same results.
 
 ## Summary: 
-### Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-- The total amount of employees that are eligble for retiring is 90,398. The majority of potential retirees have Senior roles such as Senior Engineer (29,414) and Senior Staff (28,254). This makes up 64% of the retiring group of employees. Their are only 2 Managers that will be retiring during this "silver tsunami".
+The total amount of employees that are eligble for retiring is 90,398. The majority of potential retirees have Senior roles such as Senior Engineer (29,414) and Senior Staff (28,254). This makes up 64% of the retiring group of employees. Their are only 2 Managers that will be retiring during this "silver tsunami".
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 There are 1,550 candidates that are eligible to participate in the mentorshiop program. This means if Pewlett-Hackard was to hire the same amount of employees as the future retirees, each candidate (if they all choose to participate in the mentorship program, would have to train 58 next generation employees. Since many may not be suitable trainers or willing to participate in the program, the will be a significant need for this organization to hire many new employees prior to the "silver tsunami" to ensure operations continue without any delay.
